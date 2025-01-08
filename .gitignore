@@ -6,3 +6,4 @@ exp1/LSTM_perc_16_c_ep_25/CONUS_test.nc
 exp2/LSTM_obs_ep_100/CONUS_test.nc
 exp2/SNOTEL_all_info.csv
 exp2/SNOTEL_sel_info.csv
+.DS_Store
