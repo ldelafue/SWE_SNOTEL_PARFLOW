@@ -14,7 +14,7 @@ conda env create -f environment.yml
 
 ## Data
 There are two sources of data needed to run all the notebooks. The first one is the raw data that can be found at https://hf-hydrodata.readthedocs.io/en/latest/gen_conus1_baseline_mod.html. SNOTEL and PARFLOW-CLM simulations can be retrival from this project. 
-The experiment results done in the paper must be downloanded from the link XXX and placed in the git folder.
+The experiment results done in the paper must be downloanded from the link https://drive.google.com/file/d/1io7SYwBgPqlOVi4hrAby7m7-9bv8OY6_/view?usp=share_link and placed in the git folder.
 
 ## Analysis folder
 This folder has the jupyter notebook and the files used to create each of the figures presented in the paper. All the figures are contained in the jupyter notebook Figures_paper.ipynb.
